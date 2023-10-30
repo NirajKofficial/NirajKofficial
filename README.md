@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Niraj Kumar
+- 👀 I’m interested in Quantitative Finance, Computational Mathematics & Predictive Analytics
+- 🌱 I’m currently learning CSS3, JavaScript, Python & Fast Expression (WorldQuant BRAIN)
+- 🎓 I'm curently pursuing my Bachelor of Technology in Computer Science & Engineering 
+- 📫 How to reach me :- nirajkumar.official.001@gmail.com
